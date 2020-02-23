@@ -5,16 +5,14 @@ Programme d'entrainement au calcul mental en **Python**. Réalisé dans le cadre
 ## Infos
 Vous devez trouver la réponse aux différents calculs.
 Une bonne réponse : +1 point.
-
 Tous les 10 points, la difficulté augmente.
 La difficulté n'augmente plus au delà de 50 points.
-
 Vous perdez si vous faites 5 fautes.
 Vous pourrez alors enregistrer votre score dans le scoreboard de l'ordinateur.
-
 Pour valider votre réponse, vous pouvez appuyer sur le bouton ✅ ou sur la touche Entrer.
 
 Difficulté :
+
 ★☆☆☆☆ - signes [+  -], nombres de 0 à 20.
 
 ★★☆☆☆ - signes [+ - *], nombre de -5 à 30.
