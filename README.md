@@ -16,9 +16,13 @@ Pour valider votre réponse, vous pouvez appuyer sur le bouton ✅ ou sur la tou
 
 Difficulté :
 ★☆☆☆☆ - signes [+  -], nombres de 0 à 20.
+
 ★★☆☆☆ - signes [+ - *], nombre de -5 à 30.
+
 ★★★☆☆ - signes [+ - *], nombres de -10 à 50.
+
 ★★★★☆ - signes [+ - * //], nombres de -10 à 50.
+
 ★★★★★ - signes [+ - * //], nombres de -50 à 50.
 
 NB : surprise sur les touches * et +.
